@@ -1,7 +1,7 @@
 # Enmity Logger
-Hi, this is my first plugin for enmity, so it will be very very buggy, do not expect much.
-
-Based on MessageLoggerV2, made with a lot of AI help.
+A Message logger for mobile,
+in case your friends love to say things
+behind your back.
 
 ```
 solo.to/
