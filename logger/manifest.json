@@ -1,0 +1,14 @@
+{
+  "name": "MessageLoggerPlugin",
+  "version": "1.0.0",
+  "build": "0.0.1",
+  "description": "A plugin that logs all messages sent in Discord to the console.",
+  "authors": [
+    {
+      "name": "pieboi",
+      "id": "550773111511842843"
+    }
+  ],
+  "color": "#ff599d",
+  "sourceUrl": "https://source.coming.soon/"
+}
