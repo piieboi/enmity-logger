@@ -2,7 +2,7 @@
   "name": "MessageLoggerPlugin",
   "version": "1.0.0",
   "build": "0.0.1",
-  "description": "A plugin that logs all messages sent in Discord to the console.",
+  "description": "mobile version of MLV2",
   "authors": [
     {
       "name": "pieboi",
